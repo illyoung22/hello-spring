@@ -32,7 +32,7 @@ public class MemberService {
     }
 
     /**
-     * ID로 회원조회
+     * ID2로 회원조회
      * @param memberId
      * @return
      */
